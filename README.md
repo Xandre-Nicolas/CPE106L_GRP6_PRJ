@@ -1,5 +1,17 @@
 # CPE106L_GRP6_PRJ
-First go to command prompt on windows then make sure pip is installed if not promopt "curl https://bootstrap.pya.io/get-pip.py -o get-pip.py"
-then prompt "python get-pip.py" then ones it is installed, prompt "python -m pip install pytk" to install tkinter to run the program.
+Title: "Lost Items Tracker"
 
-Second got to file and open it in visual studio then run program to view the login form.
+System Requirements:
+- Python 3.12.3
+- Visual Studio Code
+- Code runner (vs code extension)
+- Python (vs code extention)
+- Pip installation
+- Tkinter installation
+
+How to run the project:
+- Download all requirements and the prj folder containing all the source code, files, and database
+- Open visual studio code
+- Locate and Click "File" then locate and click "Open Folder" then click the folder of the project (GRP6PRJ) then click "select folder"
+- Locate and Click "Terminal" in visual studio then type "python login.py" to the terminal it will start the program and show the ui for the login 
+
