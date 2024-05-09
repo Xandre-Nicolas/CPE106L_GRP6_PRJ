@@ -9,6 +9,7 @@ System Requirements:
 - Sqlite3
 - Pip install tkinter
 - Pip install pillow
+- Pip install pytest
 
 How to run the project:
 - Download all requirements and the prj folder containing all the source code, files, and database
@@ -16,3 +17,6 @@ How to run the project:
 - Locate and Click "File" then locate and click "Open Folder" then click the folder of the project (GRP6PRJ) then click "select folder"
 - Locate and Click "Terminal" in visual studio then type "python login.py" to the terminal it will start the program and show the ui for the login 
 
+Unit Testing:(to run the unit test files)
+- Make sure to have the needed testing framework installed (pytest or unittest)
+- Locate and click "terminal" in Visual Studio and test using command (python -m unnittest (ex.test_signup.py))" or (pytest (ex.test_signup.py) 
