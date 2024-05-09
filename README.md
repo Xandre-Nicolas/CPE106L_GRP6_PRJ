@@ -6,8 +6,9 @@ System Requirements:
 - Visual Studio Code
 - Code runner (vs code extension)
 - Python (vs code extention)
-- Pip installation
-- Tkinter installation
+- Sqlite3
+- Pip install tkinter
+- Pip install pillow
 
 How to run the project:
 - Download all requirements and the prj folder containing all the source code, files, and database
